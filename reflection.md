@@ -67,3 +67,7 @@ Streamlist is basiclaly a python library that to turn data into an app aplicatio
 
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
   I have been using cursor at work so i definitly have a preconcived notion about AI but it definitly tuckles the minor details while giving me time to think and process much bigger issues and actually work on bigger design, code, prgramming..etc. it also helps me learn and/or remember things which may have skipped my mind of things that i may have forgotten.
+
+  I also have not used github in a while so using AI to help me refresh my memory on how to better use github has been super helpful. 
+
+  I am aware this first lesson is just a. starter to cover the basics but this has been super helpful and refreshing a generous amount of information, for me. 
